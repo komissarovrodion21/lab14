@@ -115,4 +115,4 @@ $ cmake --build _builds
 ### Ссылки
 
 - [Boost.Process](http://www.highscore.de/boost/process/)
-- [Boost.Program_options](http://www.boost.org/doc/libs/1_65_0/doc/html/program_options.html).
+- [Boost.Program_options](http://www.boost.org/doc/libs/1_65_0/doc/html/program_options.html)..
